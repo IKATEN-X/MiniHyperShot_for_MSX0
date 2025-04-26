@@ -1,0 +1,2 @@
+# MiniHyperShot_for_MSX0
+MSX0をちょっと便利なMSX用ハイパーショットとして使うプログラム
